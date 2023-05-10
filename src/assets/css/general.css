@@ -1,0 +1,30 @@
+/* COMPORTAMIENTO ICONOS */
+.user-icon {
+    width: 30px;
+    height: 30px;
+    border-radius: 20px;
+    border: 1px solid rgb(105, 105, 105);
+}
+
+.icon {
+    padding: 6px;
+    margin: 6px;
+    transition: 0.8s;
+    border-radius: 20px;
+    font-size: 20px;
+    cursor: pointer;
+    background-color: white;
+}
+.icon:hover {
+    transition: 0.8s;
+    background-color: #d1d1d1;
+}
+.red {
+    color: crimson;
+}
+.blue {
+    color: blue;
+}
+.green {
+    color: green;
+}
